@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">studyAndroid</string>
-    <string name="edit_tips">请输入发送内容</string>
-    <string name="button_name">发送</string>
-    <string name="display_message_activity_name">发送</string>
-    <string name="action_search">搜索</string>
-    <string name="action_settings">设置</string>
+    <string name="app_name">study android</string>
+    <string name="edit_tips">please input send message</string>
+    <string name="button_name">send</string>
+    <string name="display_message_activity_name">send</string>
+    <string name="action_search">search</string>
+    <string name="action_settings">settings</string>
 
 </resources>
