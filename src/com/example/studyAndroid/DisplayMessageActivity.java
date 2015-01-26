@@ -8,7 +8,7 @@ import android.widget.TextView;
 public class DisplayMessageActivity extends Activity{
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
+        getActionBar().setDisplayHomeAsUpEnabled(true);//默认为true，可设置为false
         Intent intent=getIntent();
         String message=intent.getStringExtra(MyActivity.EXTRA_MESSAGE);
 
